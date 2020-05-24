@@ -1,9 +1,0 @@
-numpy 
-scipy
-matplotlib
-jupyter
-cufflinks
-pandas
-scikit-learn
-scikit-image
-opencv-python
